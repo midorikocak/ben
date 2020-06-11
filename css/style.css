@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+body{
+	background-color: #d4f1ff;
+	font-family:  Helvetica, Verdana, Arial, sans-serif;
+	color: #333333;
+}
+
+#anaResim {
+	width: 150px;
+}
+
+.mavi-buyuk-yazi{
+	color: #476cff;
+	font-size: 24px;
+}
+
+h1{
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+section{
+	margin: 16px;
+	border: 1px solid #ffffff;
+	padding: 16px;
+}
